@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+h1 {
+  color:black;
+  font-family: Times New Roman;
+  font-size: 400%;
+
+}
+
+p {
+  color: pink;
+  font-family: courier;
+  font-size: 200%;
+  border: 3px solid blue;
+  padding: 30px;
+  margin: 50px;
+  background-color: red;
+
+}
+
+</style>
+</head>
+<body>
+<h1> Hello, Good day!</h1>
+<p> This web page contains all my personal information.</p>
+<p> My name is Bernadette Ampoan.</p>
+<p> I currenlty residing in Rizal Avenue, Sta. Cruz Manila.</p>
+
+
+
+
+</body>
+</html>
